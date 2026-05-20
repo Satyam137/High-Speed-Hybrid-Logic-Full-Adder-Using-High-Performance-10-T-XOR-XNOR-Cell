@@ -54,7 +54,7 @@ The designs have been verified for functionality and robustness. Key performance
 ## 🚀 How to Use
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/hrushi199/high-speed-hybrid-logic-full-adder.git](https://github.com/hrushi199/high-speed-hybrid-logic-full-adder.git)
+    git clone [https://github.com/Satyam137/High-Speed-Hybrid-Logic-Full-Adder-Using-High-Performance-10-T-XOR-XNOR-Cell](https://github.com/Satyam137/High-Speed-Hybrid-Logic-Full-Adder-Using-High-Performance-10-T-XOR-XNOR-Cell)
     ```
 2.  **Import to Cadence:**
     * Launch Cadence Virtuoso.
