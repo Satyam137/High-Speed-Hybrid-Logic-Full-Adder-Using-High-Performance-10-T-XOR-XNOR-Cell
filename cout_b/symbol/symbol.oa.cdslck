@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      imt2023557trinath
+HostName                       cadencea18
+ProcessIdentifier              116295
+ProcessCreationTime_UTC        1763914311
+ProcessCreationTime_Readable   Sun Nov 23 21:41:51 2025 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/imt2023557trinath/ramkushal/cout_b/symbol/symbol.oa.cdslck
+TimeEditLocked                 Sun Nov 23 23:12:39 2025 IST

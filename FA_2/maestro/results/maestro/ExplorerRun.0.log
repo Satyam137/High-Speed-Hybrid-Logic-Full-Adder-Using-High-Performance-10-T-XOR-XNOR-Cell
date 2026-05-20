@@ -1,0 +1,16 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Nov 24 22:51:43 2025 
+Best design point: 1
+Design specs: 
+	ramkushal_FA_2_1	corner	Nominal - 
+	Power		72.52u
+	PDP		114f
+	TRF		1.572n
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Mon Nov 24 22:51:48 2025 
